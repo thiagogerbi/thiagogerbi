@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Thiago Gerbi
 <div>
   <a href="https://github.com/thiagogerbi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagogerbi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagogerbi&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height="180em" widht="200em" src="https://github-readme-stats.vercel.app/api?username=thiagogerbi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" widht="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagogerbi&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-Java" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
